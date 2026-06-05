@@ -26,4 +26,4 @@ A aplicação utiliza uma câmera em perspectiva, permitindo visualizar o objeto
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/cubo-3d-threejs.git
+git clone https://github.com/tehzeuss/cubo-3d-threejs.git
